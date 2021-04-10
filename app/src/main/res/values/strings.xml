@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PaddnigTestApp</string>
+    <string name="this_is_a_lorem_ipsum_message">This is a lorem ipsum message</string>
+    <string name="this_is_the_title">This is the title</string>
+    <string name="beatle">Beatle</string>
+    <string name="aaa">
+        asda ajdlkaj lajs dlajs lajsl jasl jalsjdlaksjd lasj lasj ldsaj ldajsl djsalk djalk da
+        asda ajdlkaj lajs dlajs lajsl jasl jalsjdlaksjd lasj lasj ldsaj ldajsl djsalk djalk da
+    </string>
+</resources>
